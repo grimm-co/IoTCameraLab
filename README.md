@@ -1,6 +1,8 @@
 # GeoVision Camera Lab
 
-This repository contains source code, firmware, third-party software, and instructions to reproduce the Internet-of-Things (IoT) hacking lab exercise as showcased at RSA 2018, Hack NYC, and Hack the Capital.
+Things (IoT) hacking lab exercise as showcased at RSA 2018, Hack NYC, Hack the Capitol, and multiple BSides conferences.
+
+This lab is for home use only and should not be used on anything other than the local camera to teach concepts around IOT security and defense. UNAUTHORIZED USE INCLUDING USING THIS ON SOMEONE ELSE’S CAMERA IS BREAKING THE LAW.
 
 ## Lab Environment Setup
 - A Windows Virtual Machine (VM)
